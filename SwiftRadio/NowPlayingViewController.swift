@@ -47,7 +47,7 @@ class NowPlayingViewController: UIViewController {
         // Add your radio station information here:
         currentStation = RadioStation(
             name: "InsideOut Radio",
-            streamURL: "http://listen.radionomy.com/insideout",
+            streamURL: "http://listen.radionomy.com/insideout.m3u",
             imageURL: "http://insideout-radio.com/iosapp/insideout.jpg",
             desc: "Let's keep the Funk alive !",
             longDesc: "Be a part of InsideOut Radio. You can help to keep this station alive. Radionomy will stop hosting this station if the minimum count of streaming hours is reached."
