@@ -17,7 +17,7 @@
                BlueprintIdentifier = "9409E1151ABF6FEA00312E2B"
                BuildableName = "SwiftRadio.app"
                BlueprintName = "SwiftRadio"
-               ReferencedContainer = "container:SwiftRadio.xcodeproj">
+               ReferencedContainer = "container:InsideOutRadio.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
             BlueprintIdentifier = "9409E1151ABF6FEA00312E2B"
             BuildableName = "SwiftRadio.app"
             BlueprintName = "SwiftRadio"
-            ReferencedContainer = "container:SwiftRadio.xcodeproj">
+            ReferencedContainer = "container:InsideOutRadio.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -58,7 +58,7 @@
             BlueprintIdentifier = "9409E1151ABF6FEA00312E2B"
             BuildableName = "SwiftRadio.app"
             BlueprintName = "SwiftRadio"
-            ReferencedContainer = "container:SwiftRadio.xcodeproj">
+            ReferencedContainer = "container:InsideOutRadio.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -77,7 +77,7 @@
             BlueprintIdentifier = "9409E1151ABF6FEA00312E2B"
             BuildableName = "SwiftRadio.app"
             BlueprintName = "SwiftRadio"
-            ReferencedContainer = "container:SwiftRadio.xcodeproj">
+            ReferencedContainer = "container:InsideOutRadio.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
